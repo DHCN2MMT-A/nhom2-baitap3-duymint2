@@ -22,13 +22,13 @@
   }
   /*body*/
 body{
-    width: 800px;
+    width: 780px;
     margin: auto;
 }
 body h1{
     text-align: center;
     color: blue;
-    margin-bottom: 20px;
+    margin-bottom: 18px;
 }
 h2{
     text-align: center;
@@ -48,7 +48,7 @@ img {
     display: block;
     margin-left: auto;
     margin-right:auto;
-    margin-bottom: 15px;
+    margin-bottom: 18px;
 }
 /*Bai viet*/
 .centermain{
@@ -79,8 +79,8 @@ img {
 .interesting ol{
     font-family: 'Great Vibes', cursive;
     color: blue;
-    font-size: 20px;
-    font-weight:600;
+    font-size: 18px;
+    font-weight:580;
     
 
     
@@ -95,4 +95,3 @@ h3{
     
 }
 
-  
